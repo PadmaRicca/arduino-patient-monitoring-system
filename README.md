@@ -2,6 +2,7 @@
 
 **Project Level:** Intermediate Undergraduate
 
+**Author:** Padma Michela Ricca  
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE2401 (Design Engineering Projects 2)  
